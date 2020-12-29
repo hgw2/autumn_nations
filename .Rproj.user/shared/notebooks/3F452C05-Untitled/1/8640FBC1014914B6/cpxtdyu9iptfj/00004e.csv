@@ -1,0 +1,20 @@
+"0","webpage <- read_html(""https://www.rugbypass.com/live/autumn-nations-cup/ireland-vs-wales-at-aviva-stadium-on-13112020/2020/stats/"")"
+"0",""
+"0","headings <- get_tbl_headings(webpage)"
+"2","New names:
+* `` -> ...2
+"
+"2","New names:
+* `` -> ...2
+"
+"2","New names:
+* `` -> ...2
+"
+"2","New names:
+* `` -> ...2
+"
+"2","New names:
+* `` -> ...2
+"
+"0","home_team <- get_home_team_tbl(webpage, headings)"
+"0",""
