@@ -17,4 +17,3 @@ get_tbl_headings <- function(webpage){
   return(headings)
 }
 
-headings <- get_tbl_headings(read_html("https://www.rugbypass.com/live/autumn-nations-cup/ireland-vs-wales-at-aviva-stadium-on-13112020/2020/stats/"))

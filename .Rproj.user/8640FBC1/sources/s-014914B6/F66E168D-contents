@@ -25,6 +25,9 @@ headings <- get_tbl_headings(webpage)
 
 home_team <- get_home_team_tbl(webpage, headings)
 
+away_team <- get_away_team_tbl(webpage, headings) %>% 
+  mutate(across(try_scored:yellow_card, as.numeric))
+
 ```
 
 ```{r}
