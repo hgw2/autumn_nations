@@ -1,0 +1,43 @@
+date,match,position,country,player,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card
+2020-11-22,scotland_vs_france,1,Scotland,Oli Kebble,0,5,6,0,0,1,0,0,0,0,8,1,2,0,0,0,0,0,0,2,0,0
+2020-11-22,scotland_vs_france,2,Scotland,Fraser Brown,0,3,7,0,0,1,0,0,0,0,7,1,0,0,0,0,0,0,0,2,0,0
+2020-11-22,scotland_vs_france,3,Scotland,Simon Berghan,0,3,5,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,4,Scotland,Scott Cummings,0,6,5,0,0,1,0,1,0,0,12,0,0,0,0,0,0,4,0,0,0,0
+2020-11-22,scotland_vs_france,5,Scotland,Jonny Gray,0,7,7,0,0,7,0,0,0,0,10,1,0,1,0,0,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,6,Scotland,Jamie Ritchie,0,3,8,0,0,2,1,2,0,0,5,2,0,0,0,0,0,1,0,1,0,0
+2020-11-22,scotland_vs_france,7,Scotland,Hamish Watson,0,5,5,1,0,2,0,0,0,0,16,2,1,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,8,Scotland,Matt Fagerson,0,30,15,0,0,2,0,2,0,0,9,0,0,0,0,0,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,9,Scotland,Ali Price,0,5,2,0,0,68,0,0,0,0,2,4,1,9,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,10,Scotland,Duncan Weir,0,6,3,1,0,18,0,2,0,15,8,2,0,7,0,5,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,11,Scotland,Duhan Van Der Merwe,0,22,5,2,1,1,0,1,0,0,2,2,0,0,0,0,0,0,0,2,0,0
+2020-11-22,scotland_vs_france,12,Scotland,Sam Johnson,0,12,5,0,0,3,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,13,Scotland,Chris Harris,0,9,5,0,0,1,0,0,0,0,4,0,0,0,0,0,0,0,0,2,0,0
+2020-11-22,scotland_vs_france,14,Scotland,Blair Kinghorn,0,10,1,0,0,1,0,1,0,0,5,3,0,1,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,15,Scotland,Stuart Hogg,0,21,8,0,0,3,0,1,0,0,6,2,1,10,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,16,Scotland,George Turner,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,17,Scotland,Jamie Bhatti,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,18,Scotland,Zander Fagerson,0,8,6,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,19,Scotland,Sam Skinner,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,20,Scotland,Blade Thomson,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,1,1,0,0,0
+2020-11-22,scotland_vs_france,22,Scotland,Duncan Taylor,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,23,Scotland,Sean Maitland,0,3,1,0,1,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,1,France,Jean-Baptiste Gros,0,2,2,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,2,France,Camille Chat,0,16,8,0,0,0,0,1,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,3,France,Demba Bamba,0,4,5,0,0,0,0,0,0,0,9,1,1,0,0,0,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,4,France,Bernard Le Roux,0,1,3,0,0,1,0,1,0,0,21,3,0,0,0,0,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,5,France,Romain Taofifenua,0,6,4,0,0,1,0,1,0,0,13,1,0,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,6,France,Dylan Cretin,0,0,0,0,0,0,0,0,0,0,15,2,0,0,0,0,0,3,0,3,0,0
+2020-11-22,scotland_vs_france,7,France,Charles Ollivon,0,2,1,0,0,0,0,0,0,0,13,3,0,0,0,0,0,6,0,0,0,0
+2020-11-22,scotland_vs_france,8,France,Gregory Alldritt,0,8,11,0,0,3,1,3,0,0,16,0,0,0,0,0,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,9,France,Antoine Dupont,0,13,5,1,0,45,0,2,0,0,5,1,0,8,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,10,France,Matthieu Jalibert,0,24,6,2,0,15,0,2,0,3,2,3,0,9,0,0,1,0,0,0,0,0
+2020-11-22,scotland_vs_france,11,France,Vincent Rattez,0,46,8,1,2,5,2,2,1,0,3,0,0,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,12,France,Gael Fickou,0,10,4,0,0,6,0,2,0,0,13,1,0,1,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,13,France,Chris Harris,1,64,10,0,0,3,2,0,0,5,5,3,0,1,0,0,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,14,France,Teddy Thomas,0,5,2,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,15,France,Thomas Ramos,0,39,9,1,0,15,1,1,0,14,1,0,0,11,1,4,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,16,France,Julien Marchand,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,17,France,Cyril Baille,0,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2020-11-22,scotland_vs_france,18,France,Mohamed Haouas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-11-22,scotland_vs_france,19,France,Paul Willemse,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0
+2020-11-22,scotland_vs_france,23,France,Arthur Vincent,0,4,1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,3 @@
+date,match,country,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card,possession,drop_goal_missed,penalty_missed,conversion_missed,rucks_won,rucks_lost,mauls_won,scrum_won,scrum_lost
+2020-11-21,england_vs_ireland,England,2,178,77,6,3,102,6,12,1,18,218,18,7,32,1,2,0,10,1,13,0,0,0.3710879284649776,0,0,1,54,1,6,4,0
+2020-11-21,england_vs_ireland,Ireland,1,207,144,8,1,173,6,16,1,7,77,13,7,37,1,0,0,11,0,12,0,0,0.6289120715350224,0,0,0,141,5,3,8,0

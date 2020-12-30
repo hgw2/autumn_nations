@@ -1,0 +1,25 @@
+{
+    "id": "CEC89CEF",
+    "path": "~/autumn_nations/functions/get_tbl_headings.R",
+    "project_path": "functions/get_tbl_headings.R",
+    "type": "r_source",
+    "hash": "1291992297",
+    "contents": "",
+    "dirty": false,
+    "created": 1609333795498.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "1,31",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1609333801,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609333801552,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,9 @@
+date,match,country,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card,possession,drop_goal_missed,penalty_missed,conversion_missed,rucks_won,rucks_lost,mauls_won,scrum_won,scrum_lost
+2020-12-06,england_vs_france,England,1,221,119,15,2,165,10,20,0,22,129,32,7,45,1,5,0,13,1,8,0,0,0.5328947368421053,0,4,0,96,8,7,4,0
+2020-12-06,england_vs_france,France,1,143,101,5,1,103,3,13,1,19,146,4,13,51,1,4,0,9,2,16,0,0,0.46710526315789475,0,0,0,93,3,2,4,0
+2020-12-05,georgia_vs_fiji,Fiji,6,159,88,7,2,87,5,17,4,38,95,10,9,19,4,0,0,6,0,12,0,0,0.5176991150442478,0,0,2,79,4,1,7,0
+2020-12-05,georgia_vs_fiji,Georgia,3,156,88,10,2,81,4,17,1,24,132,25,2,16,3,1,0,9,0,9,0,0,0.4823008849557522,0,0,0,75,5,5,8,1
+2020-12-05,ireland_vs_scotland,Ireland,3,237,112,5,1,148,2,9,1,31,123,15,4,26,2,4,0,11,0,10,0,0,0.5641447368421053,0,1,0,114,4,7,7,1
+2020-12-05,ireland_vs_scotland,Scotland,1,87,84,11,3,119,5,12,0,16,150,13,4,18,1,3,0,5,0,15,0,1,0.43585526315789475,0,1,0,79,0,2,1,0
+2020-12-05,wales_vs_italy,Italy,2,264,92,11,3,122,5,15,2,18,143,23,4,23,1,2,0,8,1,11,0,0,0.4810725552050473,0,0,1,86,4,4,4,0
+2020-12-05,wales_vs_italy,Wales,5,194,103,2,2,135,2,11,2,38,96,6,12,32,5,1,0,9,4,13,0,1,0.5189274447949527,1,0,0,100,1,4,1,0

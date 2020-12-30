@@ -1,0 +1,16 @@
+"0","  data <- read_csv(""2_data/round_1/italy_vs_scotland/italy_vs_scotland.csv"")"
+"2","Parsed with column specification:
+cols(
+  .default = col_double(),
+  date = [34mcol_date(format = """")[39m,
+  match = [31mcol_character()[39m,
+  country = [31mcol_character()[39m,
+  player = [31mcol_character()[39m
+)
+"
+"2","See spec(...) for full column specifications.
+"
+"0","summarised_team_stats <- data %>% "
+"0","  select(-date:-position, - player) %>% "
+"0","  group_by(country) %>% "
+"0","  summarise_all(sum)"

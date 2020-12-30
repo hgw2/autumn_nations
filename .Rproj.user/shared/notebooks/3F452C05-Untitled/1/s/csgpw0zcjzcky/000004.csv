@@ -1,0 +1,16 @@
+"0","full_team_stats <- read_csv(""2_data/full_tournament_table_team.csv"")"
+"2","Parsed with column specification:
+cols(
+  .default = col_double(),
+  date = [34mcol_date(format = """")[39m,
+  match = [31mcol_character()[39m,
+  country = [31mcol_character()[39m
+)
+"
+"2","See spec(...) for full column specifications.
+"
+"0","full_team_stats %>% "
+"0","  group_by(country) %>% "
+"0","  summarise(n())"
+"2","`summarise()` ungrouping output (override with `.groups` argument)
+"

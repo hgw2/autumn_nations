@@ -1,0 +1,24 @@
+{
+    "id": "2FD37652",
+    "path": "~/autumn_nations/functions/get_away_team_tbl.R",
+    "project_path": "functions/get_away_team_tbl.R",
+    "type": "r_source",
+    "hash": "1164582398",
+    "contents": "",
+    "dirty": false,
+    "created": 1609333789667.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "cursorPosition": "2,31",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1609333802,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609333802775,
+    "read_only": false,
+    "read_only_alternatives": []
+}
