@@ -1,0 +1,47 @@
+competition,season,date,match,position,country,player,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,1,Exeter Chiefs,Ben Moon,0,8,5,0,0,2,0,0,0,0,8,0,0,0,0,0,0,1,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,2,Exeter Chiefs,Luke Cowan-Dickie,0,26,13,0,0,5,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,3,Exeter Chiefs,Harry Williams,0,4,4,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,4,Exeter Chiefs,Jonny Gray,1,15,9,0,0,4,1,2,0,5,4,0,0,0,0,0,0,3,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,5,Exeter Chiefs,Sam Skinner,0,28,15,0,0,3,0,0,0,0,10,1,1,0,0,0,0,7,1,1,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,6,Exeter Chiefs,Dave Ewers,0,9,5,0,0,4,0,0,0,0,7,0,0,0,0,0,0,1,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,7,Exeter Chiefs,Jannes Kirsten,0,11,5,0,0,2,0,0,0,0,7,1,0,0,0,0,0,1,0,2,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,8,Exeter Chiefs,Sam Simmonds,2,29,18,0,0,1,0,2,0,10,6,0,0,0,0,0,0,0,0,1,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,9,Exeter Chiefs,Jack Maunder,0,5,3,0,0,56,0,0,0,0,2,1,0,14,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,10,Exeter Chiefs,Joe Simmonds,0,18,5,4,1,14,1,2,1,8,4,0,0,2,4,0,0,0,0,1,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,11,Exeter Chiefs,Tom O'Flaherty,0,21,7,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,1,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,12,Exeter Chiefs,Ollie Devoto,1,23,6,0,1,3,0,1,0,5,6,1,0,1,0,0,0,0,0,1,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,13,Exeter Chiefs,Ian Whitten,0,12,3,0,1,0,0,2,0,0,5,0,0,0,0,0,0,0,0,1,0,1
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,14,Exeter Chiefs,Olly Woodburn,0,4,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,15,Exeter Chiefs,Stuart Hogg,0,14,4,0,0,2,0,1,0,0,1,0,0,2,0,0,0,0,0,1,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,16,Exeter Chiefs,Jack Yeandle,0,3,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,17,Exeter Chiefs,Alec Hepburn,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,18,Exeter Chiefs,Marcus Street,0,2,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,19,Exeter Chiefs,Don Armand,0,8,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,20,Exeter Chiefs,Richard Capstick,0,9,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,21,Exeter Chiefs,Sam Hidalgo-Clyne,0,0,0,0,0,14,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,22,Exeter Chiefs,Harvey Skinner,0,2,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,23,Exeter Chiefs,Tom Hendrickson,0,3,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,1,Gloucester,Val Rapava Ruskin,0,14,6,0,1,0,0,1,1,0,9,0,0,0,0,0,0,0,0,3,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,2,Gloucester,Jack Singleton,0,7,6,0,0,4,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,3,Gloucester,Fraser Balmain,0,4,2,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,4,Gloucester,Ed Slater,0,12,4,0,1,1,1,0,1,0,10,0,0,0,0,0,0,2,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,5,Gloucester,Matias Alemanno,0,1,1,0,0,2,0,0,0,0,9,0,0,0,0,0,0,3,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,6,Gloucester,Jordy Reid,0,14,6,0,0,5,0,2,0,0,13,1,3,0,0,0,0,0,0,2,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,7,Gloucester,Lewis Ludlow,0,0,3,0,0,1,0,1,0,0,20,1,4,0,0,0,0,1,1,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,8,Gloucester,Ruan Ackermann,0,8,5,0,0,0,0,0,0,0,10,0,0,0,0,0,0,1,0,1,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,9,Gloucester,Charlie Chapman,0,1,2,0,0,23,0,2,0,0,1,1,0,5,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,10,Gloucester,Lloyd Evans,0,11,5,0,0,29,2,1,0,10,10,1,0,6,2,2,0,0,0,1,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,11,Gloucester,Jonny May,0,7,4,0,0,13,1,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,12,Gloucester,Mark Atkinson,0,7,5,0,0,13,1,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,13,Gloucester,Chris Harris,0,2,3,0,0,9,1,0,0,0,11,2,0,1,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,14,Gloucester,Louis Rees-Zammit,0,10,4,0,0,0,0,2,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,15,Gloucester,Kyle Moyle,0,17,4,0,0,8,0,3,0,0,3,0,0,1,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,16,Gloucester,Henry Walker,0,0,2,0,0,2,1,1,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,17,Gloucester,Jamal Ford-Robinson,0,8,5,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,18,Gloucester,Ciaran Knight,0,2,2,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,19,Gloucester,Alex Craig,0,0,3,0,0,4,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,20,Gloucester,Seb Nagle-Taylor,0,14,7,0,0,2,2,1,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,21,Gloucester,Toby Venner,2,25,4,2,0,34,2,1,0,10,1,0,0,5,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,22,Gloucester,George Barton,0,7,6,0,0,3,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-26,exeter_chiefs_vs_gloucester,23,Gloucester,Tom Seabrook,0,11,8,0,0,4,2,3,0,0,1,0,0,1,0,0,0,0,0,1,0,0

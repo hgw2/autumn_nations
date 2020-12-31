@@ -1,0 +1,25 @@
+{
+    "id": "6E21B090",
+    "path": "~/autumn_nations/functions/get_match_links.R",
+    "project_path": "functions/get_match_links.R",
+    "type": "r_source",
+    "hash": "2320408570",
+    "contents": "",
+    "dirty": false,
+    "created": 1609418492750.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "tempName": "Untitled2",
+        "cursorPosition": "19,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1609418502,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609418502870,
+    "read_only": false,
+    "read_only_alternatives": []
+}

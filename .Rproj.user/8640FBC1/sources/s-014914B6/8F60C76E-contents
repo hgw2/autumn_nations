@@ -1,0 +1,5 @@
+competition,season,date,match,country,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card,possession,drop_goal_missed,penalty_missed,conversion_missed,rucks_won,rucks_lost,mauls_won,scrum_won,scrum_lost
+european_champions_cup,2020-2021,2020-12-20,NA,Harlequins,1,265,92,13,5,113,11,15,1,7,161,24,5,23,1,0,0,8,0,16,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+european_champions_cup,2020-2021,2020-12-20,NA,Racing 92,7,230,111,3,3,153,9,15,5,49,69,3,6,26,4,2,0,15,0,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+european_champions_cup,2020-2021,2020-12-20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.39106145251396646,0,1,0,59,2,1,7,0
+european_champions_cup,2020-2021,2020-12-20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6089385474860335,0,0,3,93,2,12,8,0

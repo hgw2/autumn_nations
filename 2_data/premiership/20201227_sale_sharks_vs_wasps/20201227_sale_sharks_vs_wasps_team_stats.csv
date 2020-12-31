@@ -1,4 +1,0 @@
-date,match,country,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card,possession,drop_goal_missed,penalty_missed,conversion_missed,rucks_won,rucks_lost,mauls_won,scrum_won,scrum_lost
-2020-12-27,sale_sharks_vs_wasps,Sale,2,209,65,1,2,84,5,28,2,23,95,11,6,15,2,3,0,9,1,12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2020-12-27,sale_sharks_vs_wasps,Wasps,2,207,95,19,5,117,10,16,2,26,78,13,12,20,2,4,0,7,2,12,0,0,0.5875706214689266,0,0,0,75,1,4,7,0
-2020-12-27,sale_sharks_vs_wasps,Sale_sharks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4124293785310734,0,0,0,53,8,5,6,0

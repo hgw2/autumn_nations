@@ -3,7 +3,7 @@
     "path": "~/autumn_nations/functions/get_home_team_tbl.R",
     "project_path": "functions/get_home_team_tbl.R",
     "type": "r_source",
-    "hash": "2774002161",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1609333782257.0,
@@ -11,7 +11,7 @@
     "relative_order": 6,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "24,26",
+        "cursorPosition": "7,2",
         "scrollLine": "0"
     },
     "folds": "",

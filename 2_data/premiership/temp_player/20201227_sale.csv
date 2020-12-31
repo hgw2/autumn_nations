@@ -1,21 +1,21 @@
-date,match,position,country,player,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card
-2020-12-27,sale_sharks_vs_wasps,1,Sale,Valery Morozov,0,3,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,2,0,0
-2020-12-27,sale_sharks_vs_wasps,2,Sale,Akker Van Der Merwe,0,5,2,0,0,0,0,5,0,0,8,0,0,0,0,0,0,0,0,2,0,0
-2020-12-27,sale_sharks_vs_wasps,3,Sale,Coenie Oosthuizen,0,4,2,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,4,0,0
-2020-12-27,sale_sharks_vs_wasps,4,Sale,Matt Postlethwaite,0,7,4,0,0,0,0,1,0,0,8,0,0,0,0,0,0,1,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,5,Sale,JP Du Preez,0,7,3,0,0,2,1,1,0,0,8,1,1,0,0,0,0,4,1,0,0,0
-2020-12-27,sale_sharks_vs_wasps,6,Sale,Cobus Wiese,0,9,4,0,0,1,0,3,0,0,6,1,0,0,0,0,0,1,0,1,0,0
-2020-12-27,sale_sharks_vs_wasps,7,Sale,Tom Curry,0,9,4,0,0,4,1,1,0,0,16,0,2,0,0,0,0,0,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,8,Sale,Daniel Du Preez,0,24,11,0,0,2,1,0,0,0,12,0,0,0,0,0,0,1,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,9,Sale,Faf De Klerk,0,10,1,0,0,51,0,6,0,0,1,0,0,6,0,0,0,0,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,10,Sale,AJ MacGinty,0,11,3,1,0,10,0,0,1,13,6,2,1,4,2,3,0,0,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,11,Sale,Marland Yarde,2,47,3,0,2,0,0,1,0,10,0,1,0,0,0,0,0,0,0,1,0,0
-2020-12-27,sale_sharks_vs_wasps,12,Sale,Sam Hill,0,21,7,0,0,4,0,4,0,0,4,1,0,0,0,0,0,0,0,2,0,0
-2020-12-27,sale_sharks_vs_wasps,13,Sale,Robert Du Preez,0,14,5,0,0,2,0,1,0,0,3,2,0,2,0,0,0,0,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,14,Sale,Luke James,0,10,4,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,15,Sale,Sam James,0,9,4,0,0,5,1,2,1,0,4,0,0,3,0,0,0,0,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,16,Sale,Curtis Langdon,0,2,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,17,Sale,Ross Harrison,0,6,2,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,18,Sale,WillGriff John,0,8,3,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,19,Sale,James Phillips,0,3,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
-2020-12-27,sale_sharks_vs_wasps,20,Sale,Sam Dugdale,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,1,0,0,0,0
+competition,season,date,match,position,country,player,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,1,Sale,Valery Morozov,0,3,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,2,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,2,Sale,Akker Van Der Merwe,0,5,2,0,0,0,0,5,0,0,8,0,0,0,0,0,0,0,0,2,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,3,Sale,Coenie Oosthuizen,0,4,2,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,4,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,4,Sale,Matt Postlethwaite,0,7,4,0,0,0,0,1,0,0,8,0,0,0,0,0,0,1,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,5,Sale,JP Du Preez,0,7,3,0,0,2,1,1,0,0,8,1,1,0,0,0,0,4,1,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,6,Sale,Cobus Wiese,0,9,4,0,0,1,0,3,0,0,6,1,0,0,0,0,0,1,0,1,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,7,Sale,Tom Curry,0,9,4,0,0,4,1,1,0,0,16,0,2,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,8,Sale,Daniel Du Preez,0,24,11,0,0,2,1,0,0,0,12,0,0,0,0,0,0,1,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,9,Sale,Faf De Klerk,0,10,1,0,0,51,0,6,0,0,1,0,0,6,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,10,Sale,AJ MacGinty,0,11,3,1,0,10,0,0,1,13,6,2,1,4,2,3,0,0,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,11,Sale,Marland Yarde,2,47,3,0,2,0,0,1,0,10,0,1,0,0,0,0,0,0,0,1,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,12,Sale,Sam Hill,0,21,7,0,0,4,0,4,0,0,4,1,0,0,0,0,0,0,0,2,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,13,Sale,Robert Du Preez,0,14,5,0,0,2,0,1,0,0,3,2,0,2,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,14,Sale,Luke James,0,10,4,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,15,Sale,Sam James,0,9,4,0,0,5,1,2,1,0,4,0,0,3,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,16,Sale,Curtis Langdon,0,2,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,17,Sale,Ross Harrison,0,6,2,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,18,Sale,WillGriff John,0,8,3,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,19,Sale,James Phillips,0,3,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+premiership,2020-2021,2020-12-27,sale_sharks_vs_wasps,20,Sale,Sam Dugdale,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,1,0,0,0,0
