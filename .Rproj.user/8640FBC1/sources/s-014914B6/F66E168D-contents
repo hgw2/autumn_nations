@@ -26,8 +26,26 @@ summarised_team_stats <- data %>%
   summarise_all(sum)
 ```
 ```{r}
-webpage <- "https://www.rugbypass.com/live/autumn-nations-cup/england-vs-georgia-at-twickenham-on-14112020/2020/stats/"
+webpages <- c("https://www.rugbypass.com/live/pro-14/zebre-vs-cardiff-blues-at-stadio-sergio-lanfranchi-on-02102020/2020-2021/stats/", "https://www.rugbypass.com/live/premiership/sale-sharks-vs-wasps-at-aj-bell-stadium-on-27122020/2020-2021/stats/")
 
+```
+
+
+```{r}
+tournaments <- c()
+
+for(webpage in webpages){
+  tournament <- webpage %>% 
+      str_extract("(?<=live/)[a-z0-9-]+") %>% 
+      str_replace_all("-", "_")
+  
+  tournaments <- c(tournaments, tournament)
+}
+ 
+```
+
+
+```{r}
 webpage <- read_html(webpage)
   
     data <- webpage  %>% 
@@ -225,8 +243,19 @@ tibble(country, possession,drop_goal_missed,penalty_missed, conversion_missed, r
 ```{r}
 full_team_stats <- read_csv("2_data/full_tournament_table_team.csv")
 
-full_team_stats %>% 
-  group_by(country) %>% 
-  summarise(n())
+full_player_stats <- read_csv("2_data/full_tournament_table_player.csv")  
+
+cor <- full_team_stats %>% 
+ select(is.numeric) %>% 
+
+  cor()
+
+library(corrplot)
+library(corrgram)
+
+cor %>% 
+  corrplot(method = "color")
+
+
 ```
 

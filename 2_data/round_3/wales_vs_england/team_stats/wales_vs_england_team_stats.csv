@@ -1,3 +1,0 @@
-date,match,country,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card,possession,drop_goal_missed,penalty_missed,conversion_missed,rucks_won,rucks_lost,mauls_won,scrum_won,scrum_lost
-2020-11-28,wales_vs_england,England,2,113,96,9,3,141,3,15,1,24,98,5,7,37,1,4,0,10,1,7,0,0,0.6074600355239786,0,2,1,94,1,6,7,0
-2020-11-28,wales_vs_england,Wales,1,50,56,0,0,80,3,16,0,13,150,7,6,25,1,2,0,12,0,17,0,0,0.3925399644760213,0,1,0,62,4,2,4,2

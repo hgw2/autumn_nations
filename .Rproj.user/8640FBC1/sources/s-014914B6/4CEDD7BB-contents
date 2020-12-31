@@ -1,0 +1,10 @@
+date,match,country,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card,possession,drop_goal_missed,penalty_missed,conversion_missed,rucks_won,rucks_lost,mauls_won,scrum_won,scrum_lost
+2020-11-13,ireland_vs_wales,Ireland,2,217,119,3,4,123,4,21,1,32,90,11,6,16,2,6,0,7,3,13,0,0,0.5923809523809523,0,0,0,103,7,4,4,2
+2020-11-13,ireland_vs_wales,Wales,0,122,75,8,1,103,3,12,0,9,131,9,11,18,0,3,0,9,0,18,0,0,0.4076190476190476,0,3,0,63,2,1,1,4
+2020-11-21,england_vs_ireland,England,2,178,77,6,3,102,6,12,1,18,218,18,7,32,1,2,0,10,1,13,0,0,0.3710879284649776,0,0,1,54,1,6,4,0
+2020-11-21,england_vs_ireland,Ireland,1,207,144,8,1,173,6,16,1,7,77,13,7,37,1,0,0,11,0,12,0,0,0.6289120715350224,0,0,0,141,5,3,8,0
+2020-12-06,england_vs_france,England,1,221,119,15,2,165,10,20,0,22,129,32,7,45,1,5,0,13,1,8,0,0,0.5328947368421053,0,4,0,96,8,7,4,0
+2020-12-06,england_vs_france,France,1,143,101,5,1,103,3,13,1,19,146,4,13,51,1,4,0,9,2,16,0,0,0.46710526315789475,0,0,0,93,3,2,4,0
+2020-12-27,sale_sharks_vs_wasps,Sale,2,209,65,1,2,84,5,28,2,23,95,11,6,15,2,3,0,9,1,12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2020-12-27,sale_sharks_vs_wasps,Wasps,2,207,95,19,5,117,10,16,2,26,78,13,12,20,2,4,0,7,2,12,0,0,0.5875706214689266,0,0,0,75,1,4,7,0
+2020-12-27,sale_sharks_vs_wasps,Sale_sharks,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4124293785310734,0,0,0,53,8,5,6,0

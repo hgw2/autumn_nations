@@ -22,7 +22,7 @@ get_home_team_tbl <- function(webpage, headings){
   home_table<- home_table %>% 
     mutate(country = home[2], .before = player) %>% 
     drop_na(position) %>% 
-    mutate(across(try_scored:yellow_card, as.numeric))
+    mutate(across(headings, as.numeric))
   
   return(home_table)
 }

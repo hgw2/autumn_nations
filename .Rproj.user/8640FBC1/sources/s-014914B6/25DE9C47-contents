@@ -1,0 +1,57 @@
+tournaments <- unique(tournaments)
+
+for (tournament in tournaments) {
+  
+  files <- c()
+  
+  
+  tournament_dir_path <- paste("2_data/", tournament, sep = "")
+  
+  
+  # Create tournament temp folder team and player for overall tournament stats
+  tournament_temp_player_dir_path <- paste("2_data/", tournament, "/temp_player", sep = "")
+  
+  
+  
+  tournament_temp_team_dir_path <- paste("2_data/", tournament, "/temp_team", sep = "")
+  
+  
+  
+  for (file in list.files(tournament_temp_player_dir_path)) {
+    file_path <- paste(tournament_temp_player_dir_path, "/", file, sep = "")
+    files <- c(files, file_path)
+  }
+  
+  complete_data <- NULL
+  
+  for (file in files) {
+    part_data <- read_csv(file)
+    complete_data <- bind_rows(complete_data, part_data)
+  }
+  
+  complete_data %>%
+    write_csv(paste(tournament_dir_path, "/", tournament, "_player_stats.csv", sep = ""))
+  
+  
+  files <- c()
+  
+  
+  
+  for (file in list.files(tournament_temp_team_dir_path)) {
+    file_path <- paste(tournament_temp_team_dir_path, "/", file, sep = "")
+    files <- c(files, file_path)
+  }
+  
+  complete_data <- NULL
+  
+  for (file in files) {
+    part_data <- read_csv(file)
+    complete_data <- bind_rows(complete_data, part_data)
+  }
+  
+  complete_data %>%
+    write_csv(paste(tournament_dir_path, "/", tournament, "_team_stats.csv", sep = ""))
+  
+  unlink(tournament_temp_team_dir_path, recursive = TRUE)
+  unlink(tournament_temp_player_dir_path, recursive = TRUE)
+}

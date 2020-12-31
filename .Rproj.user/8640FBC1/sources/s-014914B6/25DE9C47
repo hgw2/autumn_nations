@@ -1,0 +1,25 @@
+{
+    "id": "25DE9C47",
+    "path": "~/autumn_nations/functions/consolidate_tournament_data.R",
+    "project_path": "functions/consolidate_tournament_data.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1609414967124.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "tempName": "Untitled2",
+        "cursorPosition": "19,61",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1609414997,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609414997188,
+    "read_only": false,
+    "read_only_alternatives": []
+}

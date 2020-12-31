@@ -1,0 +1,4 @@
+date,match,country,tries,carries_metres,runs,defenders_beaten,clean_breaks,passes,offload,turnovers_conceded,try_assist,points,tackles,missed_tackles,turnover_won,kicks_from_hand,conversion_goals,penalty_goals,drop_goals_converted,lineout_throw_won_clean,lineouts_won,lineout_won_steal,penalties_conceded,red_cards,yellow_cards,possession,drop_goal_missed,penalty_missed,conversion_missed,rucks_won,rucks_lost,mauls_won,scrum_won,scrum_lost
+2018-11-03,england_vs_south_africa,England,0,319,105,20,13,145,8,12,0,12,165,23,11,35,0,4,0,5,6,3,11,0,1,0.41,0,1,0,77,2,2,6,2
+2018-11-03,england_vs_south_africa,South Africa,1,381,130,23,4,155,0,19,1,11,113,20,6,27,0,2,0,12,14,1,5,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,South_africa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.59,0,1,1,107,2,5,5,1

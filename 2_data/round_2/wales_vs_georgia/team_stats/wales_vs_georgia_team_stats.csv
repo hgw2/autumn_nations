@@ -1,3 +1,0 @@
-date,match,country,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card,possession,drop_goal_missed,penalty_missed,conversion_missed,rucks_won,rucks_lost,mauls_won,scrum_won,scrum_lost
-2020-11-21,wales_vs_georgia,Georgia,0,104,73,4,1,96,8,20,0,0,145,22,8,25,0,0,0,7,0,14,0,1,0.39171974522292996,0,1,0,63,4,4,2,1
-2020-11-21,wales_vs_georgia,Wales,2,189,116,11,3,179,4,19,2,18,99,11,8,25,1,2,0,11,1,7,0,0,0.60828025477707,0,1,1,113,3,5,9,0

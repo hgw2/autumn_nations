@@ -1,0 +1,224 @@
+date,match,position,country,player,tries,carries_metres,runs,defenders_beaten,clean_breaks,passes,offload,turnovers_conceded,try_assist,points,tackles,missed_tackles,turnover_won,kicks_from_hand,conversion_goals,penalty_goals,drop_goals_converted,lineout_throw_won_clean,lineouts_won,lineout_won_steal,penalties_conceded,red_cards,yellow_cards,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,total_turnovers_conceded,points_scored,tackle_made,tackle_missed,total_turnovers_gained,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,red_card,yellow_card
+2018-11-03,england_vs_south_africa,1,England,Alec Hepburn,0,0,1,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,2,England,Dylan Hartley,0,0,0,0,0,4,0,0,0,0,9,2,1,0,0,0,0,3,3,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,3,England,Kyle Sinckler,0,14,6,1,0,9,0,0,0,0,10,1,0,0,0,0,0,0,0,0,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,4,England,Maro Itoje,0,23,5,2,1,5,0,1,0,0,15,0,1,0,0,0,0,0,0,0,3,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,5,England,George Kruis,0,4,6,2,0,3,0,1,0,0,11,1,0,0,0,0,0,0,0,1,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,6,England,Brad Shields,0,22,9,0,1,4,0,1,0,0,11,0,2,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,7,England,Tom Curry,0,10,7,0,0,1,0,0,0,0,6,1,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,8,England,Mark Wilson,0,19,11,2,0,4,0,0,0,0,14,1,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,9,England,Ben Youngs,0,12,3,0,1,48,1,0,0,0,6,0,0,14,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,10,England,Owen Farrell,0,6,4,3,1,29,1,0,0,9,8,2,1,7,0,3,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,11,England,Jonny May,0,51,10,4,2,3,1,6,0,0,5,3,2,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,12,England,Ben Te'o,0,4,8,0,0,5,0,0,0,0,8,3,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,13,England,Henry Slade,0,21,5,1,2,3,1,1,0,0,6,7,0,3,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,14,England,Jack Nowell,0,54,5,1,2,1,1,0,0,0,6,0,2,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,15,England,Elliot Daly,0,55,11,3,3,6,3,1,0,3,2,0,0,6,0,1,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,16,England,Jamie George,0,0,2,0,0,1,0,0,0,0,6,0,0,0,0,0,0,2,3,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,17,England,Ben Moon,0,0,1,0,0,2,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,18,England,Harry Williams,0,0,1,0,0,1,0,0,0,0,6,0,0,1,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,19,England,Charlie Ewels,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,20,England,Zach Mercer,0,24,7,0,0,2,0,0,0,0,10,1,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,21,England,Danny Care,0,0,1,0,0,12,0,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,22,England,George Ford,0,0,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,23,England,Chris Ashton,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,1,South Africa,Steven Kitshoff,0,3,6,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,2,South Africa,Malcolm Marx,0,15,8,0,0,1,0,3,0,0,5,1,1,0,0,0,0,11,13,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,3,South Africa,Frans Malherbe,0,2,2,0,0,1,0,1,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,4,South Africa,Eben Etzebeth,0,5,5,0,0,0,0,1,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,5,South Africa,Pieter-Steph du Toit,0,19,12,1,0,3,0,0,0,0,13,1,0,0,0,0,0,0,0,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,6,South Africa,Siya Kolisi,0,0,2,0,0,0,0,2,0,0,6,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,7,South Africa,Duane Vermeulen,0,27,9,1,0,2,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,8,South Africa,Warren Whiteley,0,7,5,1,0,5,0,0,1,0,14,1,0,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,9,South Africa,Ivan van Zyl,0,0,4,0,0,65,0,0,0,0,3,0,0,10,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,10,South Africa,Handre Pollard,0,65,12,3,1,20,0,3,0,6,7,1,0,6,0,2,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,11,South Africa,Aphiwe Dyantyi,0,59,8,1,0,2,0,2,0,0,5,1,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,12,South Africa,Damian de Allende,0,63,15,6,2,1,0,2,0,0,11,1,0,1,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,13,South Africa,Jesse Kriel,0,30,4,2,0,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,14,South Africa,Sibusiso Nkosi,1,15,5,2,1,0,0,1,0,5,8,4,0,1,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,15,South Africa,Damian Willemse,0,47,9,5,0,8,0,1,0,0,2,1,1,7,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,16,South Africa,Mbongeni Mbonami,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,17,South Africa,Thomas du Toit,0,5,4,0,0,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,18,South Africa,Wilco Louw,0,0,2,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,19,South Africa,RG Snyman,0,2,5,0,0,3,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,20,South Africa,Lodewyk De Jager,0,4,4,0,0,2,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,21,South Africa,Embrose Papier,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,22,South Africa,Elton Jantjies,0,4,3,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018-11-03,england_vs_south_africa,23,South Africa,Andre Esterhuizen,0,9,5,0,0,1,0,1,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2020-11-13,ireland_vs_wales,1,Ireland,Cian Healy,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,5,7,0,0,1,0,2,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,2,Ireland,Ronan Kelleher,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,6,5,0,0,1,0,13,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,3,Ireland,Andrew Porter,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,7,6,0,0,1,0,6,1,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,4,Ireland,Quinn Roux,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,1,0,NA,NA,1,6,8,0,0,0,5,8,2,1,0,0,0,3,0,0
+2020-11-13,ireland_vs_wales,5,Ireland,James Ryan,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,3,NA,NA,0,13,8,0,0,3,0,9,0,0,0,0,0,1,0,0
+2020-11-13,ireland_vs_wales,6,Ireland,Peter O'Mahony,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,2,0,NA,NA,0,9,6,0,0,2,0,5,1,2,0,0,0,2,0,0
+2020-11-13,ireland_vs_wales,7,Ireland,Josh Van Der Flier,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,3,0,0,1,0,6,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,8,Ireland,Caelan Doris,NA,NA,NA,NA,NA,3,0,NA,1,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,18,12,0,0,0,0,10,0,1,0,0,0,1,0,0
+2020-11-13,ireland_vs_wales,9,Ireland,Jamison Gibson-Park,NA,NA,NA,NA,NA,70,0,NA,0,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,0,0,NA,NA,0,13,5,0,1,2,0,2,1,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,10,Ireland,Johnny Sexton,NA,NA,NA,NA,NA,5,0,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,1,NA,NA,0,25,3,1,1,0,8,1,0,0,1,2,0,0,0,0
+2020-11-13,ireland_vs_wales,11,Ireland,James Lowe,NA,NA,NA,NA,NA,6,3,NA,0,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,0,2,NA,NA,1,37,9,0,1,2,5,3,1,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,12,Ireland,Robbie Henshaw,NA,NA,NA,NA,NA,3,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,11,8,1,0,1,0,7,1,1,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,13,Ireland,Chris Farrell,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,18,10,0,0,0,0,4,1,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,14,Ireland,Andrew Conway,NA,NA,NA,NA,NA,7,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,14,9,1,0,2,0,1,1,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,15,Ireland,Hugo Keenan,NA,NA,NA,NA,NA,6,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,26,7,0,1,3,0,1,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,16,Ireland,David Heffernan,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,-1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,17,Ireland,Ed Byrne,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,18,Ireland,Finlay Bealham,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,1,3,0,0,0,0,1,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,19,Ireland,Tadhg Beirne,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,20,Ireland,Will Connors,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,3,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,21,Ireland,Conor Murray,NA,NA,NA,NA,NA,6,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,8,1,0,0,1,2,0,0,0,0
+2020-11-13,ireland_vs_wales,22,Ireland,Billy Burns,NA,NA,NA,NA,NA,5,0,NA,0,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,4,0,0,1,6,5,1,0,0,2,0,0,0,0
+2020-11-13,ireland_vs_wales,23,Ireland,Keith Earls,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,1,Wales,Rhys Carre,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,3,NA,NA,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,2,Wales,Ryan Elias,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,7,4,0,0,3,0,5,0,1,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,3,Wales,Tomas Francis,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,4,Wales,Will Rowlands,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,3,2,0,0,0,0,11,0,0,0,0,0,1,0,0
+2020-11-13,ireland_vs_wales,5,Wales,Alun Wyn Jones,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,4,3,0,0,0,0,11,0,1,0,0,0,2,0,0
+2020-11-13,ireland_vs_wales,6,Wales,Shane Lewis-Hughes,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,5,3,0,0,1,0,10,1,2,0,0,0,6,0,0
+2020-11-13,ireland_vs_wales,7,Wales,Justin Tipuric,NA,NA,NA,NA,NA,5,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,14,3,0,1,0,0,11,3,1,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,8,Wales,Taulupe Faletau,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,9,8,4,0,0,0,12,0,1,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,9,Wales,Gareth Davies,NA,NA,NA,NA,NA,18,1,NA,0,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,0,1,NA,NA,0,-1,2,0,0,2,0,4,0,1,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,10,Wales,Dan Biggar,NA,NA,NA,NA,NA,22,1,NA,0,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,4,0,0,0,0,4,2,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,11,Wales,Josh Adams,NA,NA,NA,NA,NA,3,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,14,6,2,0,1,0,5,1,1,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,12,Wales,Owen Watkin,NA,NA,NA,NA,NA,8,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,12,6,0,0,0,0,12,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,13,Wales,Jonathan Davies,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,7,4,0,0,0,0,6,0,1,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,14,Wales,Liam Williams,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,2,1,0,0,1,0,5,1,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,15,Wales,Leigh Halfpenny,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,0,1,NA,NA,0,10,7,0,0,1,9,6,0,0,0,3,0,0,0,0
+2020-11-13,ireland_vs_wales,16,Wales,Elliot Dee,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,6,3,1,0,1,0,4,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,17,Wales,Wyn Jones,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,4,2,0,0,0,0,2,1,1,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,18,Wales,Samson Lee,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,1,3,0,0,0,0,5,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,19,Wales,Jake Ball,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,11,6,0,0,0,0,3,0,1,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,20,Wales,Aaron Wainwright,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,4,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,21,Wales,Lloyd Williams,NA,NA,NA,NA,NA,36,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,22,Wales,Callum Sheedy,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-11-13,ireland_vs_wales,23,Wales,George North,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,8,4,0,0,1,0,2,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,1,England,Mako Vunipola,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,4,3,0,0,0,0,15,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,2,England,Jamie George,NA,NA,NA,NA,NA,3,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,10,5,0,0,3,0,16,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,3,England,Kyle Sinckler,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,1,2,0,0,0,0,19,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,4,England,Maro Itoje,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,1,1,NA,NA,0,4,2,0,0,1,0,22,0,2,0,0,0,5,0,0
+2020-11-21,england_vs_ireland,5,England,Joe Launchbury,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,3,NA,NA,0,1,1,0,0,1,0,18,1,0,0,0,0,4,0,0
+2020-11-21,england_vs_ireland,6,England,Tom Curry,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,10,6,0,0,0,0,20,0,1,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,7,England,Sam Underhill,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,4,2,0,0,0,0,16,2,1,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,8,England,Billy Vunipola,NA,NA,NA,NA,NA,3,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,15,9,0,0,0,0,19,1,2,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,9,England,Ben Youngs,NA,NA,NA,NA,NA,35,0,NA,0,NA,NA,NA,NA,10,NA,NA,NA,NA,NA,0,0,NA,NA,0,4,2,0,0,2,0,4,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,10,England,Owen Farrell,NA,NA,NA,NA,NA,16,1,NA,1,NA,NA,NA,NA,7,NA,NA,NA,NA,NA,0,3,NA,NA,0,11,5,0,1,1,8,13,2,0,1,2,0,0,0,0
+2020-11-21,england_vs_ireland,11,England,Jonny May,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,0,NA,NA,2,41,7,4,1,0,10,5,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,12,England,Henry Slade,NA,NA,NA,NA,NA,8,1,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,0,NA,NA,0,8,6,0,0,0,0,6,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,13,England,Ollie Lawrence,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,7,4,0,0,1,0,14,2,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,14,England,Jonathan Joseph,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,0,NA,NA,0,28,6,2,1,1,0,6,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,15,England,Elliot Daly,NA,NA,NA,NA,NA,4,3,NA,0,NA,NA,NA,NA,7,NA,NA,NA,NA,NA,0,0,NA,NA,0,14,8,0,0,1,0,4,2,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,16,England,Tom Dunn,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,17,England,Ellis Genge,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,5,3,0,0,0,0,5,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,18,England,Will Stuart,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,19,England,Jonny Hill,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,0
+2020-11-21,england_vs_ireland,20,England,Ben Earl,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,1,0,0,0,0,9,0,1,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,21,England,Dan Robson,NA,NA,NA,NA,NA,16,0,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,22,England,George Ford,NA,NA,NA,NA,NA,6,0,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,0,NA,NA,0,4,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,23,England,Max Malins,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,3,2,0,0,0,0,1,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,1,Ireland,Cian Healy,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,6,0,0,0,0,3,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,2,Ireland,Ronan Kelleher,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,9,7,0,0,2,0,5,0,1,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,3,Ireland,Andrew Porter,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,6,17,0,0,0,0,4,0,2,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,4,Ireland,Quinn Roux,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,-1,2,0,0,0,0,3,2,0,0,0,0,1,0,0
+2020-11-21,england_vs_ireland,5,Ireland,James Ryan,NA,NA,NA,NA,NA,3,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,4,NA,NA,0,17,10,0,0,0,0,10,0,0,0,0,0,3,0,0
+2020-11-21,england_vs_ireland,6,Ireland,CJ Stander,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,1,3,0,0,0,0,1,0,1,0,0,0,1,0,0
+2020-11-21,england_vs_ireland,7,Ireland,Peter O'Mahony,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,1,NA,NA,0,10,10,0,0,1,0,4,1,1,0,0,0,4,0,0
+2020-11-21,england_vs_ireland,8,Ireland,Caelan Doris,NA,NA,NA,NA,NA,3,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,5,13,0,0,1,0,10,0,1,0,0,0,1,0,0
+2020-11-21,england_vs_ireland,9,Ireland,Jamison Gibson-Park,NA,NA,NA,NA,NA,71,1,NA,0,NA,NA,NA,NA,9,NA,NA,NA,NA,NA,0,1,NA,NA,0,3,4,1,0,2,0,1,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,10,Ireland,Ross Byrne,NA,NA,NA,NA,NA,26,0,NA,0,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,1,0,0,0,0,3,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,11,Ireland,James Lowe,NA,NA,NA,NA,NA,4,1,NA,0,NA,NA,NA,NA,9,NA,NA,NA,NA,NA,0,0,NA,NA,0,17,11,0,0,2,0,3,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,12,Ireland,Bundee Aki,NA,NA,NA,NA,NA,4,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,16,8,0,0,0,0,7,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,13,Ireland,Chris Farrell,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,0,NA,NA,0,25,15,1,0,1,0,2,3,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,14,Ireland,Keith Earls,NA,NA,NA,NA,NA,3,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,50,9,4,1,2,0,4,2,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,15,Ireland,Hugo Keenan,NA,NA,NA,NA,NA,9,2,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,2,NA,NA,0,3,13,1,0,2,0,2,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,16,Ireland,Rob Herring,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,4,3,0,0,2,0,4,0,1,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,17,Ireland,Ed Byrne,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,1,3,0,0,0,0,2,1,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,19,Ireland,Iain Henderson,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,0,2,0,0,1,0,2,0,0,0,0,0,1,0,0
+2020-11-21,england_vs_ireland,20,Ireland,Will Connors,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,3,2,0,0,0,0,3,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,21,Ireland,Conor Murray,NA,NA,NA,NA,NA,38,0,NA,0,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,0,0,NA,NA,0,3,2,0,0,0,0,1,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,22,Ireland,Billy Burns,NA,NA,NA,NA,NA,2,0,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,2,3,0,0,1,0,0,0,0,0
+2020-11-21,england_vs_ireland,23,Ireland,Jacob Stockdale,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,0,NA,NA,1,31,3,1,0,0,5,0,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,1,England,Ellis Genge,NA,NA,NA,NA,NA,2,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,11,7,0,0,1,0,11,3,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,2,England,Jamie George,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,1,0,0,1,0,5,4,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,3,England,Kyle Sinckler,NA,NA,NA,NA,NA,4,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,7,7,0,0,1,0,9,1,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,4,England,Maro Itoje,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,5,4,0,0,0,0,11,1,2,0,0,0,4,0,0
+2020-12-06,england_vs_france,5,England,Joe Launchbury,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,4,3,0,0,0,0,5,1,0,0,0,0,3,0,0
+2020-12-06,england_vs_france,6,England,Tom Curry,NA,NA,NA,NA,NA,4,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,14,8,1,0,1,0,15,2,1,0,0,0,0,0,0
+2020-12-06,england_vs_france,7,England,Sam Underhill,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,2,1,0,0,0,0,13,2,1,0,0,0,0,0,0
+2020-12-06,england_vs_france,8,England,Billy Vunipola,NA,NA,NA,NA,NA,4,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,22,14,1,0,2,0,11,4,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,9,England,Ben Youngs,NA,NA,NA,NA,NA,51,1,NA,0,NA,NA,NA,NA,10,NA,NA,NA,NA,NA,0,0,NA,NA,0,6,4,0,0,0,0,1,1,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,10,England,George Ford,NA,NA,NA,NA,NA,33,0,NA,0,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,0,0,NA,NA,0,13,6,2,0,1,0,2,1,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,11,England,Jonny May,NA,NA,NA,NA,NA,6,2,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,0,NA,NA,0,15,11,1,1,1,0,3,2,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,12,England,Owen Farrell,NA,NA,NA,NA,NA,7,0,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,0,NA,NA,0,12,6,4,0,0,14,4,2,1,1,4,0,0,0,0
+2020-12-06,england_vs_france,13,England,Henry Slade,NA,NA,NA,NA,NA,6,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,17,7,0,0,1,0,4,1,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,14,England,Anthony Watson,NA,NA,NA,NA,NA,4,1,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,2,NA,NA,0,13,8,3,0,4,0,4,1,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,15,England,Elliot Daly,NA,NA,NA,NA,NA,9,0,NA,0,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,0,1,NA,NA,0,15,9,0,0,2,3,5,3,0,0,1,0,0,0,0
+2020-12-06,england_vs_france,16,England,Luke Cowan-Dickie,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,1,1,NA,NA,1,16,4,0,1,1,5,2,0,1,0,0,0,0,0,0
+2020-12-06,england_vs_france,17,England,Joe Marler,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,8,3,0,0,0,0,4,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,18,England,Will Stuart,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,4,2,0,0,0,0,5,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,19,England,Jonny Hill,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,1,0,0,1,0,7,2,0,0,0,0,6,0,0
+2020-12-06,england_vs_france,20,England,Ben Earl,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,14,5,2,0,1,0,8,1,1,0,0,0,0,0,0
+2020-12-06,england_vs_france,21,England,Dan Robson,NA,NA,NA,NA,NA,28,0,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,22,England,Max Malins,NA,NA,NA,NA,NA,2,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,17,7,1,0,1,0,0,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,1,France,Hassane Kolingar,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,-1,4,0,0,0,0,8,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,2,France,Pierre Bourgarit,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,10,7,0,0,1,0,3,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,3,France,Dorian Aldegheri,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,4,3,0,0,0,0,5,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,4,France,Baptiste Pesenti,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,3,NA,NA,0,1,3,0,0,1,0,6,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,5,France,Kilian Geraci,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,8,4,0,0,0,0,11,0,0,0,0,0,3,0,0
+2020-12-06,england_vs_france,6,France,Cameron Woki,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,2,0,NA,NA,0,2,2,0,0,0,0,6,0,2,0,0,0,3,0,0
+2020-12-06,england_vs_france,7,France,Anthony Jelonch,NA,NA,NA,NA,NA,1,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,4,5,0,0,0,0,15,1,2,0,0,0,0,0,0
+2020-12-06,england_vs_france,8,France,Selevasio Tolofua,NA,NA,NA,NA,NA,2,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,12,11,0,0,1,0,7,0,1,0,0,0,1,0,0
+2020-12-06,england_vs_france,9,France,Baptiste Couilloud,NA,NA,NA,NA,NA,59,0,NA,0,NA,NA,NA,NA,9,NA,NA,NA,NA,NA,0,1,NA,NA,0,-3,4,0,0,1,0,8,0,1,0,0,0,0,0,0
+2020-12-06,england_vs_france,10,France,Matthieu Jalibert,NA,NA,NA,NA,NA,12,0,NA,1,NA,NA,NA,NA,13,NA,NA,NA,NA,NA,0,0,NA,NA,0,17,7,1,1,0,11,3,0,0,1,3,0,0,0,0
+2020-12-06,england_vs_france,11,France,Gabin Villière,NA,NA,NA,NA,NA,2,1,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,1,NA,NA,0,5,6,0,0,0,0,9,0,1,0,0,0,0,0,0
+2020-12-06,england_vs_france,12,France,Jonathan Danty,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,13,3,1,0,1,0,7,0,1,0,0,0,0,0,0
+2020-12-06,england_vs_france,13,France,Yoram Moefana,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,12,4,2,0,0,0,9,0,1,0,0,0,0,0,0
+2020-12-06,england_vs_france,14,France,Alivereti Raka,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,1,NA,NA,0,10,3,0,0,2,0,8,2,2,0,0,0,0,0,0
+2020-12-06,england_vs_france,15,France,Brice Dulin,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,0,1,NA,NA,1,29,14,1,0,2,5,2,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,16,France,Peato Mauvaka,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,6,7,0,0,2,0,0,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,17,France,Rodrigue Neti,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,3,3,0,0,0,0,4,1,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,18,France,Uini Atonio,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,6,6,0,0,0,0,7,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,19,France,Guillaume Ducat,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,0,0,0,0,0,0,8,0,0,0,0,0,1,0,0
+2020-12-06,england_vs_france,20,France,Sekou Macalou,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,3,3,0,0,1,0,6,0,2,0,0,0,1,0,0
+2020-12-06,england_vs_france,21,France,Sebastien Bezy,NA,NA,NA,NA,NA,19,0,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2020-12-06,england_vs_france,22,France,Louis Carbonel,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,1,0,0,1,3,5,0,0,0,1,0,0,0,0
+2020-12-06,england_vs_france,23,France,Pierre-Louis Barassi,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,2,1,0,0,0,0,8,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,1,Sale,Valery Morozov,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,3,1,0,0,0,0,4,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,2,Sale,Akker Van Der Merwe,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,5,2,0,0,5,0,8,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,3,Sale,Coenie Oosthuizen,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,4,NA,NA,0,4,2,0,0,0,0,6,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,4,Sale,Matt Postlethwaite,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,7,4,0,0,1,0,8,0,0,0,0,0,1,0,0
+2020-12-27,sale_sharks_vs_wasps,5,Sale,JP Du Preez,NA,NA,NA,NA,NA,2,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,1,0,NA,NA,0,7,3,0,0,1,0,8,1,1,0,0,0,4,0,0
+2020-12-27,sale_sharks_vs_wasps,6,Sale,Cobus Wiese,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,9,4,0,0,3,0,6,1,0,0,0,0,1,0,0
+2020-12-27,sale_sharks_vs_wasps,7,Sale,Tom Curry,NA,NA,NA,NA,NA,4,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,9,4,0,0,1,0,16,0,2,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,8,Sale,Daniel Du Preez,NA,NA,NA,NA,NA,2,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,24,11,0,0,0,0,12,0,0,0,0,0,1,0,0
+2020-12-27,sale_sharks_vs_wasps,9,Sale,Faf De Klerk,NA,NA,NA,NA,NA,51,0,NA,0,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,0,0,NA,NA,0,10,1,0,0,6,0,1,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,10,Sale,AJ MacGinty,NA,NA,NA,NA,NA,10,0,NA,1,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,0,0,NA,NA,0,11,3,1,0,0,13,6,2,1,2,3,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,11,Sale,Marland Yarde,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,2,47,3,0,2,1,10,0,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,12,Sale,Sam Hill,NA,NA,NA,NA,NA,4,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,21,7,0,0,4,0,4,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,13,Sale,Robert Du Preez,NA,NA,NA,NA,NA,2,0,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,0,NA,NA,0,14,5,0,0,1,0,3,2,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,14,Sale,Luke James,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,10,4,0,0,0,0,3,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,15,Sale,Sam James,NA,NA,NA,NA,NA,5,1,NA,1,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,0,0,NA,NA,0,9,4,0,0,2,0,4,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,16,Sale,Curtis Langdon,NA,NA,NA,NA,NA,1,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,17,Sale,Ross Harrison,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,6,2,0,0,1,0,1,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,18,Sale,WillGriff John,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,8,3,0,0,1,0,1,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,19,Sale,James Phillips,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,3,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+2020-12-27,sale_sharks_vs_wasps,20,Sale,Sam Dugdale,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,0,3,0,2,0,0,0,1,0,0
+2020-12-27,sale_sharks_vs_wasps,1,Wasps,Tom West,NA,NA,NA,NA,NA,3,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,7,6,2,0,0,0,2,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,2,Wasps,Tom Cruse,NA,NA,NA,NA,NA,1,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,1,17,6,1,1,1,5,2,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,3,Wasps,Jeff To'omaga-Allen,NA,NA,NA,NA,NA,3,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,1,6,0,0,0,0,8,0,3,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,4,Wasps,Will Rowlands,NA,NA,NA,NA,NA,3,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,1,1,NA,NA,0,26,16,1,1,0,0,5,0,1,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,5,Wasps,James Gaskell,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,1,2,NA,NA,0,4,4,0,0,0,0,10,1,2,0,0,0,4,0,0
+2020-12-27,sale_sharks_vs_wasps,6,Wasps,Ben Morris,NA,NA,NA,NA,NA,2,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,4,7,0,0,0,0,6,2,0,0,0,0,3,0,0
+2020-12-27,sale_sharks_vs_wasps,7,Wasps,Thomas Young,NA,NA,NA,NA,NA,3,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,2,NA,NA,0,4,5,0,0,0,0,11,1,2,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,8,Wasps,Alfie Barbeary,NA,NA,NA,NA,NA,4,2,NA,1,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,16,11,1,0,4,0,3,0,1,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,9,Wasps,Will Porter,NA,NA,NA,NA,NA,37,0,NA,1,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,0,0,NA,NA,0,14,4,3,0,0,0,4,0,1,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,10,Wasps,Charlie Atkinson,NA,NA,NA,NA,NA,14,2,NA,0,NA,NA,NA,NA,7,NA,NA,NA,NA,NA,0,0,NA,NA,1,33,6,7,1,3,5,5,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,11,Wasps,Josh Bassett,NA,NA,NA,NA,NA,2,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,33,2,0,1,1,0,1,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,12,Wasps,Michael Le Bourgeois,NA,NA,NA,NA,NA,6,1,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,9,6,0,0,0,0,5,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,13,Wasps,Paolo Odogwu,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,18,3,2,1,1,0,3,1,1,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,14,Wasps,Zach Kibirige,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,0,NA,NA,0,1,1,1,0,1,0,4,1,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,15,Wasps,Lima Sopoaga,NA,NA,NA,NA,NA,8,0,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,3,0,0,2,16,1,2,0,2,4,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,16,Wasps,Tommy Taylor,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,18,Wasps,Simon McIntyre,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,1,NA,NA,0,2,3,0,0,1,0,0,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,20,Wasps,Tom Willis,NA,NA,NA,NA,NA,1,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,3,0,0,0,0,3,0,1,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,21,Wasps,Dan Robson,NA,NA,NA,NA,NA,27,0,NA,0,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,0,0,NA,NA,0,14,2,0,0,1,0,1,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,22,Wasps,Jimmy Gopperth,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,0,0,NA,NA,0,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+2020-12-27,sale_sharks_vs_wasps,23,Wasps,Juan De Jongh,NA,NA,NA,NA,NA,0,0,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,0,0,NA,NA,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0

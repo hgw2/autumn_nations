@@ -3,22 +3,22 @@
     "path": "~/autumn_nations/functions/get_away_team_tbl.R",
     "project_path": "functions/get_away_team_tbl.R",
     "type": "r_source",
-    "hash": "1164582398",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1609333789667.0,
     "source_on_save": false,
     "relative_order": 7,
     "properties": {
-        "cursorPosition": "2,31",
-        "scrollLine": "0"
+        "cursorPosition": "24,26",
+        "scrollLine": "3"
     },
     "folds": "",
-    "lastKnownWriteTime": 1609333802,
+    "lastKnownWriteTime": 1609411116,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1609333802775,
+    "last_content_update": 1609411116774,
     "read_only": false,
     "read_only_alternatives": []
 }

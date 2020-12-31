@@ -22,7 +22,7 @@ get_away_team_tbl <- function(webpage, headings){
   away_table<- away_table %>% 
     mutate(country = away[2], .before = player) %>% 
     drop_na(position) %>% 
-    mutate(across(try_scored:yellow_card, as.numeric))
+    mutate(across(headings, as.numeric))
   
   return(away_table)
 }

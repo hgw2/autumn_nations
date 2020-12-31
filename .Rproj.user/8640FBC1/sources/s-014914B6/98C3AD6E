@@ -1,9 +1,9 @@
 {
     "id": "98C3AD6E",
-    "path": "~/autumn_nations/functions/create_round_data.R",
-    "project_path": "functions/create_round_data.R",
+    "path": "~/autumn_nations/functions/create_tournament_data.R",
+    "project_path": "functions/create_tournament_data.R",
     "type": "r_source",
-    "hash": "3180706461",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1609330833162.0,
@@ -11,15 +11,15 @@
     "relative_order": 3,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "68,45",
-        "scrollLine": "49"
+        "cursorPosition": "13,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1609340039,
+    "lastKnownWriteTime": 1609415126,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1609340039499,
+    "last_content_update": 1609415126899,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,0 +1,24 @@
+date,match,position,country,player,try_scored,ball_carry_meters,ball_carry,beat_defender,line_break,passes,offload,total_turnovers_conceded,try_assist,points_scored,tackle_made,tackle_missed,total_turnovers_gained,kicks_from_hand,conversion_successful,penalty_goal_successful,drop_kick_successful,lineout_won_own_throw,lineout_won_steal,penalties_conceded,red_card,yellow_card
+2020-11-21,england_vs_ireland,1,England,Mako Vunipola,0,4,3,0,0,2,0,0,0,0,15,0,0,0,0,0,0,0,0,2,0,0
+2020-11-21,england_vs_ireland,2,England,Jamie George,0,10,5,0,0,3,0,3,0,0,16,1,0,0,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,3,England,Kyle Sinckler,0,1,2,0,0,1,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,4,England,Maro Itoje,0,4,2,0,0,1,0,1,0,0,22,0,2,0,0,0,0,5,1,1,0,0
+2020-11-21,england_vs_ireland,5,England,Joe Launchbury,0,1,1,0,0,0,0,1,0,0,18,1,0,0,0,0,0,4,0,3,0,0
+2020-11-21,england_vs_ireland,6,England,Tom Curry,0,10,6,0,0,1,0,0,0,0,20,0,1,0,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,7,England,Sam Underhill,0,4,2,0,0,0,0,0,0,0,16,2,1,0,0,0,0,0,0,1,0,0
+2020-11-21,england_vs_ireland,8,England,Billy Vunipola,0,15,9,0,0,3,1,0,0,0,19,1,2,0,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,9,England,Ben Youngs,0,4,2,0,0,35,0,2,0,0,4,1,0,10,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,10,England,Owen Farrell,0,11,5,0,1,16,1,1,1,8,13,2,0,7,1,2,0,0,0,3,0,0
+2020-11-21,england_vs_ireland,11,England,Jonny May,2,41,7,4,1,2,0,0,0,10,5,0,0,2,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,12,England,Henry Slade,0,8,6,0,0,8,1,0,0,0,6,1,0,1,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,13,England,Ollie Lawrence,0,7,4,0,0,2,0,1,0,0,14,2,0,0,0,0,0,0,0,1,0,0
+2020-11-21,england_vs_ireland,14,England,Jonathan Joseph,0,28,6,2,1,0,0,1,0,0,6,1,0,1,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,15,England,Elliot Daly,0,14,8,0,0,4,3,1,0,0,4,2,0,7,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,16,England,Tom Dunn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,17,England,Ellis Genge,0,5,3,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,18,England,Will Stuart,0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0
+2020-11-21,england_vs_ireland,19,England,Jonny Hill,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,1,0,0,0,0
+2020-11-21,england_vs_ireland,20,England,Ben Earl,0,2,1,0,0,0,0,0,0,0,9,0,1,0,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,21,England,Dan Robson,0,0,0,0,0,16,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,22,England,George Ford,0,4,2,0,0,6,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0
+2020-11-21,england_vs_ireland,23,England,Max Malins,0,3,2,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
